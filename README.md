@@ -8,7 +8,7 @@ This theme is based on Substratum Theme Engine and needs Substratum or Substratu
 
 ## How to use it?
 
-In order to use Extras For AA you'll need to have Substratum installed on your phone. Based on Android version, **you may want to check out first if your phone is compatible with Substratum Lite**, which packs some more features than Substratum (ironic, ain't it?). If your device is compatbile with Substratum Lite, install Extras For AA and start playing with it. If your phone is not compatible with Substratum Lite, install normal Substratum and **be sure to download Extras For AA (Legacy) **
+In order to use Extras For AA you'll need to have Substratum installed on your phone. Based on Android version, **you may want to check out first if your phone is compatible with Substratum Lite**, which packs some more features than Substratum (ironic, ain't it?). If your device is compatbile with Substratum Lite, install Extras For AA and start playing with it. If your phone is not compatible with Substratum Lite, install normal Substratum and **be sure to download Extras For AA (Legacy)**
 
 There are many options available and you can tweak the appeareance of a lot of things
 
