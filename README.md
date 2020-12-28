@@ -51,4 +51,20 @@ This theme is open source! [Source here](https://github.com/shmykelsa/extras4aa)
 
 Do you want to stay up to date with my themes, as well as receive previews? Be sure to [join the update channel on Telegram](http://t.me/shmykelsathemes)!
 
-If you really like my themes also [consider a donation](http://paypal.me/grizzo96), even a small amount will be appreciated
+If you really like my themes also consider a donation, even a small amount will be really appreciated.
+
+You can donate through: 
+
+[Paypal](https://www.paypal.com/donate?hosted_button_id=YK7G5GHS64D6N)
+
+Or via cryptos
+
+BTC: 39bdKem8taTZvm2WeyH8wwDhYKzZ2PzhGn
+ETH: 0x3D9e6862590622245875B5b202b53E14E8052FA8
+LTC: MHff2pPF4YHafcFYEVG55yFbx3yGXDBh1T
+XRP: rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg XRP TAG: 3707843365
+BAND: 0x2e445f1C65496E27BeBA9F726B708b771f722dC2
+UMA: 0xF707F8143EAA1999cDde78C4AEd89316F62A3418
+GRT: 0x2e79AaeD933781d8BaAa03685ED32CEBC1D8f9f2
+COMP: 0x374aed091aB5FA72392Aaa87bD87B20c9356214b
+BCH: qq6hxekaagy9ng69tgapfvglsh3e6s47supy8qe4nd
