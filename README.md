@@ -27,7 +27,7 @@ What you can customize:
 
 You can preview most of the options visiting this page: https://telegra.ph/Extras-For-AA-Previews-10-27
 
-**There are also some things you should know about Substratum and the options available, I strongly reccomend to take a look to the FAQ and known issues document before get started: ttps://telegra.ph/EXTRAS-FOR-AA---FAQ-AND-KNOWN-ISSUES-10-15**
+**There are also some things you should know about Substratum and the options available, I strongly reccomend to take a look to the FAQ and known issues document before get started: https://telegra.ph/EXTRAS-FOR-AA---FAQ-AND-KNOWN-ISSUES-10-15**
 
 ## Extras For AA Icons Special
 
