@@ -29,6 +29,10 @@ You can preview most of the options visiting this page: https://telegra.ph/Extra
 
 **There are also some things you should know about Substratum and the options available, I strongly reccomend to take a look to the FAQ and known issues document before get started: https://telegra.ph/EXTRAS-FOR-AA---FAQ-AND-KNOWN-ISSUES-10-15**
 
+## Android 11
+
+Android 11 is very restricted. [See wiki page for more informations](https://github.com/shmykelsa/extrasforaa-release/wiki/Android-11)
+
 ## How to download? 😳
 
 See the release section on the right? It lists every release of Extras For AA. Below every release you'll find the "assets" menu and in there you will have the APK.
