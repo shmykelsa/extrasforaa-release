@@ -29,6 +29,11 @@ You can preview most of the options visiting this page: https://telegra.ph/Extra
 
 **There are also some things you should know about Substratum and the options available, I strongly reccomend to take a look to the FAQ and known issues document before get started: https://telegra.ph/EXTRAS-FOR-AA---FAQ-AND-KNOWN-ISSUES-10-15**
 
+## How to download? 😳
+
+See the release section on the right? It lists every release of Extras For AA. Below every release you'll find the "assets" menu and in there you will have the APK.
+You don't see release section on the right? [Click here](www.github.com/shmykelsa/extrasforaa-release/releases)
+
 ## Extras For AA Icons Special
 
 Extras For AA Icons Special is the special edition of Extras For AA, which has options dedicated to just icon swapping for Android Auto. With Extras For AA Icons Special you can customize:
