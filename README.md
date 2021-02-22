@@ -14,10 +14,15 @@ Extras For AA is the first theme of the collection. It was born to be a theme to
 
 <details>
   <summary>Here's a preview of what this theme can do</summary>
+  
   ![banner](https://telegra.ph/file/3c9eb33b7b66fa4b1f91c.png)
+  
   ![banner](https://telegra.ph/file/06609c8714f8ec188f8b5.png)
+  
   ![banner](https://telegra.ph/file/cfde7a2dd4ce75cf8efa3.png)
+  
   ![banner](https://telegra.ph/file/5cf316cd83b54300eb26b.png)
+  
 </details>
 
 ## Custom bar modes!
