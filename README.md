@@ -1,64 +1,100 @@
 ![banner](https://imgur.com/QoN3diIh.jpg)
 
-Welcome to Extras For AA, the most advanced way to personalize Android Auto's look.
+### Are you bored of Android Auto UI? You can't stand the fact that on your car you have two clocks on the screen? Do you want to personalize your look of Android Auto tweaking the UI to your likings?
 
-This theme is based on Substratum Theme Engine and needs Substratum or Substratum lite to work.
+### If yes is the answer to any of the questions above, you are in the right place!
 
-## SYNERGY SUPPORT IS (CURRENTLY) UNAVAILABLE DUE TO A LIMITATION OF SAMSUNG THEME STORE
+### Meet Extras For AA Collection, the most advanced way to tweak Android Auto's look
 
-## How to use it?
+In case you missed it, I've made another Substratum Theme for Android Auto to personalize the default background. Check out [Wallpapers For AA now](https://github.com/shmykelsa/wp4aa-release)!
 
-In order to use Extras For AA you'll need to have Substratum installed on your phone. Based on Android version, **you may want to check out first if your phone is compatible with Substratum Lite**, which packs some more features than Substratum (ironic, ain't it?). If your device is compatbile with Substratum Lite, install Extras For AA and start playing with it. If your phone is not compatible with Substratum Lite, install normal Substratum and **be sure to download Extras For AA (Legacy)**
+## 1. Extras For AA
 
-There are many options available and you can tweak the appeareance of a lot of things
+Extras For AA is the first theme of the collection. It was born to be a theme to personalize some elements in Android Auto, and now it is a very comprehensive theme that can tweak a lot of things inside Android Auto. You will find it in the "release" section of this repository
 
-What you can customize:
+<details>
+  <summary>Here's a preview of what this theme can do</summary>
+  ![banner](https://telegra.ph/file/3c9eb33b7b66fa4b1f91c.png)
+  ![banner](https://telegra.ph/file/06609c8714f8ec188f8b5.png)
+  ![banner](https://telegra.ph/file/cfde7a2dd4ce75cf8efa3.png)
+  ![banner](https://telegra.ph/file/5cf316cd83b54300eb26b.png)
+</details>
 
-- Reduce or remove bottom bar of AA
-- Reduce or remove status bar
-- Customize the bar leaving just the launcher button or combine it with notifications button -and/or quick access app
-- Swap the launcher button with the clock, thanks to madness mode
-- Pick your favourite gradient and apply it to what you'd like! Bar, widget or heads up notifications
-- Customize colours of various things such as accent (bottom widget), bottom bar, caption of -apps
-- Customize heads up notifications making them translucent, smaller, or even gradient-coloured!
-- Choose between all the status bar customization
-- Make notification center (or notifications) transparent
-- Much much more!
+## Custom bar modes!
 
-You can preview most of the options visiting this page: https://telegra.ph/Extras-For-AA-Previews-10-27
+One Button? Two Buttons? Three Buttons?
 
-**There are also some things you should know about Substratum and the options available, I strongly reccomend to take a look to the FAQ and known issues document before get started: https://telegra.ph/EXTRAS-FOR-AA---FAQ-AND-KNOWN-ISSUES-10-15**
+One Button: navbar is just launcher icon
 
-## Android 11
+Two Buttons: combine launcher icon with the recent app or notification icon
 
-Android 11 is very restricted. [See wiki page for more informations](https://github.com/shmykelsa/extrasforaa-release/wiki/Android-11)
+Three buttons: combine launcher with notifications and recent app
 
-## How to download? 😳
+Madness Mode = Clock instead of launcher icon
 
-See the release section on the right? It lists every release of Extras For AA. Below every release you'll find the "assets" menu and in there you will have the APK.
-You don't see release section on the right? [Click here](www.github.com/shmykelsa/extrasforaa-release/releases)
++N = + Notifications 
++Q = + Quick access app
+H = Horizontal
+V = Vertical
 
-## Extras For AA Icons Special
+There's an entire document covering most of the options available. [Check out now more previews](https://telegra.ph/Extras-For-AA-Previews-10-27)!
 
-Extras For AA Icons Special is the special edition of Extras For AA, which has options dedicated to just icon swapping for Android Auto. With Extras For AA Icons Special you can customize:
+### LEGACY VERSION
+
+If your device can't run Substratum Lite, download the specific version of Extras For AA which is called Legacy. This version is optimized for old devices that can't run Substratum Lite. 
+
+If your device can run Substratum Lite, go for normal one!
+
+
+## 2. Icons For AA
+
+Icons For AA (previously Extras For AA Icons Special) is the special edition of Extras For AA, which has options dedicated to just icon swapping for Android Auto. With Icons For AA you can customize:
 
 - Exit Icons
 - Status Bar Icons
 - Bottom bar Icons
 - More to come!
 
-**Extras For AA Icons Special has no Legacy version**
+### [Download Repository](www.github.com/shmykelsa/iconsforaa-release)
 
 
-**Warning** If Extras For AA gets updated is also a general good practice to make a clean install of overlays, so in order to avoid errors, uninstall previously built overlays, then you can install them again. If Android Auto gets updated **you MUST reinstall every option** otherwise Android Auto will likely fail to start :)
+## 2. Animations For AA
 
-## Extras For AA + Wallpapers For AA = ❤
+Third and newest theme from the Extras For AA collection. With Animations For AA, you can personalize:
 
-Have you checked out my first substratum theme that changes Android Auto's default background? What are you waiting for? [Get Wallpapers For Android Auto now and tweak Android Auto even more!](https://github.com/shmykelsa/wp4aa-release)
+- App switch animation
+- App enter animation (Android Auto 6.1+)
+- App exit animation (Android Auto 6.1+)
+
+### [Download Repository](https://github.com/shmykelsa/animations-for-aa-release)
+
+**Icons For AA and Animations For AA have no Legacy version**
+
+**WARNING!!!** If Extras For AA gets updated is also a general good practice to make a clean install of overlays, so in order to avoid errors, uninstall previously built overlays, then you can install them again. If Android Auto gets updated **you MUST reinstall every option** otherwise Android Auto will likely fail to start :)
+
+## Compatibility
+
+## Android 11?
+
+Substratum is very limited on Android 11 and for the time being it can only apply very light modifications to user-installed apps. This is out of my control and I don't know whether it will be fixed or not. Extras For AA has so many modifications and making a very light version for Android 11 is just not worth it. Icons For AA and Animations For AA will mostly work fine.
+
+## Synergy?
+
+For some reasons, Synergy won't apply themes outside of the phone's screen. This has been an ongoing issue since OneUI 1.0 and unfortunately I don't think it will be ever fixed. Blame Samsung!
+
+## Android 6?
+
+You can technically install Substratum on Android 6, but it relies on a old implementation that is not compatible with the actual Substratum. Android 6 is not supported.
+
+
+## How to download? 😳
+
+See the release section on the right? It lists every release of Extras For AA. Below every release you'll find the "assets" menu and in there you will have the APK.
+You don't see release section on the right? [Click here](www.github.com/shmykelsa/extrasforaa-release/releases)
 
 This theme is open source! [Source here](https://github.com/shmykelsa/extras4aa)
 
-Do you want to stay up to date with my themes, as well as receive previews? Be sure to [join the update channel on Telegram](http://t.me/shmykelsathemes)!
+## Do you want to stay up to date with my themes, as well as receive previews? Be sure to [join the update channel on Telegram](http://t.me/shmykelsathemes)!
 
 If you really like my themes also consider a donation, even a small amount will be really appreciated.
 
