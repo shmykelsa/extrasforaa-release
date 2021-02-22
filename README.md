@@ -63,7 +63,7 @@ Icons For AA (previously Extras For AA Icons Special) is the special edition of 
 ### [Download Repository](www.github.com/shmykelsa/iconsforaa-release)
 
 
-## 2. Animations For AA
+## 3. Animations For AA
 
 Third and newest theme from the Extras For AA collection. With Animations For AA, you can personalize:
 
